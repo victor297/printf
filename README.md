@@ -109,5 +109,5 @@ These are all the tasks of this project, the ones that are completed link to the
 ---
 
 ### Authors
-* **DAVID VICTOR** - [temmyisijola@gmail.com](https://github.com/Becky04)
-* **IREOLUWA OGUNYINKA** - [messagelordwill@gmail.com](https://github.com/Lordwill1)
+* **DAVID VICTOR** - [davidvictor297@gmail.com](https://github.com/DavidVictor)
+* **IREOLUWA OGUNYINKA** - [iireoluwa@gmail.com](https://github.com/iireoluwa)
